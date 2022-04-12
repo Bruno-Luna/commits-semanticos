@@ -1,3 +1,5 @@
+## Commits semânticos
+
 - O Git considera cada `commit`ponto de alteração do seu projeto, fazendo assim um histórico do seu trabalho ao longo do desenvolvimento.
 
 - Uma boa mensagem de commit deve conter a descrição do que foi feito e para nos ajudar, podemos utilizar este **padrão de escrita das mensagens.**
@@ -69,3 +71,7 @@ O **rodapé,** assim como o **escopo e descrição**, são opcionais de serem in
 fix: corrige pequenos erros de digitação no código
 - veja o ticket para detalhes sobre os erros de digitação corrigidos.originado da issue JD#12.
 ```
+
+
+
+Referência: https://www.conventionalcommits.org/pt-br/v1.0.0/
